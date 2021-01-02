@@ -2,11 +2,6 @@
 ##  Rotem Dvir  ##
 ##  June 2020  ##
 
-# Clear memory
-rm(list=ls())
-
-# Set Working Directory
-setwd("~/Dropbox/TAMU/Extra_Projects/Git_edits/Choice_set")
 
 # Packages
 library(foreign)
