@@ -2,9 +2,6 @@
 ##  Rotem Dvir  ##
 ##  June 2020  ##
 
-# Set Working Directory
-setwd("~/Dropbox/TAMU/Extra_Projects/Git_edits/Choice_set/Data")
-
 # Packages
 library(psych)  ###needed for describe()
 library(foreign)
